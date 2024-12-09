@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkexample_vuex"]=self["webpackChunkexample_vuex"]||[]).push([[594],{7384:function(e,t,r){r.r(t),r.d(t,{default:function(){return i}});var o=function(){var e=this,t=e._self._c;return t("div",{staticClass:"about"},[t("h1",[e._v("Bienvenido "+e._s(e.$store.state.nombre))]),t("p",[e._v(e._s(e.valorDobleStore))])])},s=[],u={name:"AboutView",computed:{valorDobleStore(){return this.$store.getters.valorDoble}}},l=u,n=r(845),a=(0,n.A)(l,o,s,!1,null,"15525938",null),i=a.exports}}]);
+//# sourceMappingURL=about.8b493bf4.js.map
